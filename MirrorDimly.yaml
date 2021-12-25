@@ -7,7 +7,7 @@ log-view:
 input-text:
   font-family: 'Courier New'
   font-size: 11.0
-  background-color: '#222'
+  background-color: '#000'
   color: '#ddd'
   selected:
     background-color: '#060'
