@@ -1,5 +1,5 @@
-# MirrorDimly
-Limechat Theme, dark and understated with alternating lines
+# MirrorDimly Theme for Limechat
+Custom Limechat Theme, dark and understated with alternating lines.
 
 ## How To Install
 1. Copy `MirrorDimly.css` and `MirrorDimly.yaml` to `~/Library/Application Support/Limechat/Themes`
