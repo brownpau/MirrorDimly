@@ -5,15 +5,15 @@ log-view:
   nickname-format: '%n: '
   scroller-highlight-color: '#f0f'
 input-text:
-  font-family: 'Courier New'
-  font-size: 11.0
+  font-family: Courier
+  font-size: 11px
   background-color: '#000'
   color: '#ddd'
   selected:
     background-color: '#060'
 member-list:
-  font-family: 'Courier New'
-  font-size: 11.0
+  font-family: Courier
+  font-size: 11px
   color: '#999'
   background-color: '#111'
   operator:
@@ -26,8 +26,8 @@ member-list:
       top-color: '#444'
       bottom-color: '#444'
 server-tree:
-  font-family: 'Courier New'
-  font-size: 11.0
+  font-family: Courier
+  font-size: 11px
   background-color: '#111'
   highlight:
     color: '#999'
