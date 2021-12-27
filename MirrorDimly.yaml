@@ -5,14 +5,14 @@ log-view:
   nickname-format: '%n: '
   scroller-highlight-color: '#f0f'
 input-text:
-  font-family: Courier
+  font-family: "Courier New"
   font-size: 11px
   background-color: '#000'
   color: '#ddd'
   selected:
     background-color: '#060'
 member-list:
-  font-family: Courier
+  font-family:  "Courier New"
   font-size: 11px
   color: '#999'
   background-color: '#111'
@@ -26,7 +26,7 @@ member-list:
       top-color: '#444'
       bottom-color: '#444'
 server-tree:
-  font-family: Courier
+  font-family:  "Courier New"
   font-size: 11px
   background-color: '#111'
   highlight:
